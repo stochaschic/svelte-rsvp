@@ -1,0 +1,31 @@
+
+
+body {
+    background-color: #FFFBF7;
+    font-family: 'Oruguitas', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 4vh;
+    line-height: 2;
+    margin:0;
+    padding:0;
+}
+button {
+    font-family: 'Oruguitas', serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 2vh;
+    line-height: 1.6;
+}
+
+.no-scroll {
+    overflow: hidden;
+  }
+
+.dress-code-text {
+    font-size:1.8vh;
+}
+
+.wedding-registry-text {
+    font-size: 2vh;
+}
